@@ -9,6 +9,7 @@ header{
     width: 150px;
 }
 img {
+    margin: 0;
     width: 20%;
     display: inline-block;
 }
