@@ -1,7 +1,18 @@
 body{
-    margin: 15px;
-    background-image: url(https://galatea-dev.apps.ambientesbc.com/2.0.1/assets/icons/strokes/05.svg);
-        background-repeat: no-repeat;
-        background-size: contain;
-        background-color: #fff;
+    margin: 22px;
+    background-image: url(https://showcase-sdb.apps.bancolombia.com/assets/icons/strokes/07.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #fff;
 }
+header{
+    width: 18%;
+}
+img {
+    width: 8%;
+    display: inline-block;
+}
+#lnk{
+    display: inline-block ;
+}
+
